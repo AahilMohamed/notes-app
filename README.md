@@ -12,9 +12,9 @@ To run the app, type `node app.js` followed by one of these 4 functions:
   - To list all saved notes: `list`
   - To view a specific note: `read title="title"`
 
-To parse user input, npm module [yargs](https://www.npmjs.com/package/yargs) was used.  
-To save notes in JSON format, inbuilt module file-system was used.  
-To beautify terminal output, npm module [chalk](https://www.npmjs.com/package/chalk) was used.
+To parse user input, npm module [Yargs](https://www.npmjs.com/package/yargs) was used.  
+To save notes in JSON format, in-built node module File System was used.  
+To beautify terminal output, npm module [Chalk](https://www.npmjs.com/package/chalk) was used.
 
 ## Build Status
 There are currently no bugs in this application.
