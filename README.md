@@ -14,6 +14,7 @@ All notes are saved in JSON format.
 
 ## Build Status
 There are currently no bugs in this application.
+
 This node.js application will be packaged as a API and connected to a web-based user interface in the near future.
 
 
