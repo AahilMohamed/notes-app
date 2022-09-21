@@ -8,6 +8,8 @@ To run the app, type `node app.js` followed by one of these 4 functions:
   - To list all saved notes: `list`
   - To view a specific note: `read title="title"`
 
+All notes are saved in JSON format.
+
 
 
 
