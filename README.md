@@ -1,7 +1,7 @@
 # notes-app
 
 ## Overview
-This is a command line based note-taking application that is capable of adding, removing, storing, listing and reading notes, done as part of Andrew Mead's "The Complete Node.js Developer Course" in Udemy.
+This is a command line based note-taking application that is capable of adding, removing, storing, listing and reading notes.
 
 This is my first node.js application, and in this project, I learned about the node module system, global modules, file system, command-line args, arrow function, & debugging.
 
