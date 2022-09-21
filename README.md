@@ -7,10 +7,10 @@ This is my first node.js application, and in this project, I learned about the n
 
 ## Process
 To run the app, type `node app.js` followed by one of these 4 functions:
-  - To add a note: `add title="title" content="content"`
-  - To remove a note: `remove title="title"`
+  - To add a note: `add --title="title" --content="content"`
+  - To remove a note: `remove --title="title"`
   - To list all saved notes: `list`
-  - To view a specific note: `read title="title"`
+  - To view a specific note: `read --title="title"`
 
 To parse user input, npm module [Yargs](https://www.npmjs.com/package/yargs) was used.  
 To save notes in JSON format, in-built node module File System was used.  
