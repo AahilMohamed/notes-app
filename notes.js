@@ -29,9 +29,9 @@ const addNote = (title, content) => {
             content: content
         })
         saveNotes(notes)
-        console.log(chalk.bgGreenBright('New note added successfully...'))
+        console.log(chalk.greenBright.inverse('New note added successfully...'))
     } else {
-        console.log(chalk.bgRedBright('Title already taken. Please use another title...'))
+        console.log(chalk.redBright.inverse('Title already taken. Please use another title...'))
     }
 }
 
